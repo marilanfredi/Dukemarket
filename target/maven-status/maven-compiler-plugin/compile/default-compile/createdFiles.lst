@@ -1,9 +1,13 @@
+br\dev\mariana\dukemarket\javafx\DAO\ClientesDAO.class
 br\dev\mariana\dukemarket\javafx\App.class
 br\dev\mariana\dukemarket\javafx\controller\MenuPrincipalController.class
+br\dev\mariana\dukemarket\javafx\controller\ScrClientesController.class
+connection\ClientesController.class
 br\dev\mariana\dukemarket\javafx\controller\ScrProdutosController.class
 br\dev\mariana\dukemarket\javafx\SecondaryController.class
 br\dev\mariana\dukemarket\javafx\model\Produto.class
 br\dev\mariana\dukemarket\javafx\PrimaryController.class
 module-info.class
 br\dev\mariana\dukemarket\javafx\DAO\ProdutoDAO.class
+br\dev\mariana\dukemarket\javafx\model\Clientes.class
 connection\MySQLConnection.class
